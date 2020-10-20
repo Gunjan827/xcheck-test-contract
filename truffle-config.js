@@ -1,5 +1,5 @@
 const HDWalletProvider = require("@truffle/hdwallet-provider");
-const mnemonic = "finish misery tooth board city female album magic key found level industry";
+const mnemonic = "";
 
 
 /**
